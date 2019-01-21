@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- 設定関連 -->
+    <string name="app_name">れぷのおと</string>
+
+    <!-- 共通項目 -->
+    <string name="hint_txt">全角・半角12文字以内</string>
+    <string name="hint_number">半角数字</string>
+    <string name="hint_mark">※</string>
+
+    <!-- リスト名一覧 -->
+    <string name="rep_list">爬虫類一覧</string>
+
+    <!-- 爬虫類登録 AddReptiles関連 -->
+    <string name="add_rep_title">爬虫類追加</string>
+    <string name="txt_name">名前</string>
+    <string name="txt_gen">性別</string>
+    <string name="txt_category">種別</string>
+    <string name="txt_birth">生年月日</string>
+    <string name="txt_come">お迎え日</string>
+    <string name="txt_memo">メモ</string>
+
+    <!-- リスト項目 item_reptiles関連 -->
+
+</resources>
