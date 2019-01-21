@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // ツールバーの設定 //
-        Toolbar toolbar = findViewById(R.id.toolbar01);          // Toolbarを取得
+        Toolbar toolbar = findViewById(R.id.toolbar);             // Toolbarを取得
         toolbar.setLogo(R.drawable.logo);                         // Toolbarにアプリ名のロゴを設定
         setSupportActionBar(toolbar);                              // ActionbarにToolbarを設定
     }
